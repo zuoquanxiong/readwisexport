@@ -1,0 +1,3 @@
+[submodule "exporthelpers"]
+	path = src/readwisexport/exporthelpers
+	url = https://github.com/zuoquanxiong/exporthelpers.git
